@@ -1,6 +1,7 @@
 # 1 copy app or dis, package.json, gulpfile.js 
 # 2 npm i
 # 3 gulpfile
+# 4 add folder app > css fonts img js scss index.html
 
 ######## Importand ########
 # see to package.json - devDependencies
