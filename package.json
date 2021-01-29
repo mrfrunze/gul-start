@@ -1,0 +1,28 @@
+{
+  "name": "gulp-start",
+  "version": "1.0.0",
+  "description": "gulp start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OLeg S",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.5.1",
+    "normalize.css": "^8.0.1"
+  },
+  "dependencies": {
+    "magnific-popup": "^1.1.0",
+    "slick-carousel": "^1.8.1"
+  }
+}

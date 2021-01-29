@@ -1,0 +1,5 @@
+# не обрабатывать файлы zip
+*.zip
+/app
+/node_modules
+package-lock.json

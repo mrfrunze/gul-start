@@ -1,0 +1,7 @@
+# 1 copy app or dis, package.json, gulpfile.js 
+# 2 npm i
+# 3 gulpfile
+
+######## Importand ########
+# see to package.json - devDependencies
+# seve like --save-dev
